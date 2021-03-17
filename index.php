@@ -4,7 +4,7 @@
     <head>
         
         <title> Simple calculator</title>
-        <link rel="stylesheet" type="text/css" href="style.css">   
+        <link rel="stylesheet" type="text/css" href="mystyle.css">   
             
     </head>
     <body>
